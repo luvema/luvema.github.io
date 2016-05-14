@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 /**
  * Reset some basic elements
  */
@@ -202,5 +206,62 @@ pre {
         path {
             fill: $grey-color;
         }
+    }
+}
+
+/**
+ * Home
+ */
+.hero {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    padding: 5px;
+}
+.hero-text-box {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+    padding: 5px;
+    border-radius: 20px;
+    position: absolute;
+    width: 95%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFF;
+    
+    h1 {
+        font-size: 130%;
+        font-weight: 700;
+    }
+    h2 {
+        font-size: 115%;
+    }
+    p {
+        font-size: 100%;
+    }
+    
+    a:link,
+    a:visited {
+        color: #FFF;
+    }
+}
+.icon-lu {
+    padding-right: 10px;
+    color: $text_violet;
+}
+@media screen and (min-width: 900px) {
+    .hero-text-box {
+        width: 100%;
+        padding: 15px;
+    }
+    h1 {
+        font-size: 400%;
+    }
+    h2 {
+        font-size: 230%;
+    }
+    p {
+        font-size: 150%;
     }
 }
