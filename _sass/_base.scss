@@ -213,7 +213,7 @@ pre {
  * Hero coming soon
  */
 .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature-xs.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -258,6 +258,9 @@ pre {
     color: $text_violet;
 }
 @media screen and (min-width: 768px) {
+    .hero {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature-md.jpg);
+    }
     .hero-text-box {
         h1 {
             font-size: 300%;
@@ -287,5 +290,9 @@ pre {
             font-size: 150%;
         }
     }
-
+}
+@media screen and (min-width: 1200px) {
+    .hero {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature.jpg);
+    }
 }
