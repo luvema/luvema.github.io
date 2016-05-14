@@ -76,7 +76,7 @@ ul, ol {
 li {
     > ul,
     > ol {
-         margin-bottom: 0;
+        margin-bottom: 0;
     }
 }
 
@@ -210,7 +210,7 @@ pre {
 }
 
 /**
- * Home
+ * Hero coming soon
  */
 .hero {
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature.jpg);
@@ -220,16 +220,18 @@ pre {
     padding: 5px;
 }
 .hero-text-box {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
-    padding: 5px;
-    border-radius: 20px;
     position: absolute;
     width: 95%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #FFF;
-    
+
+    .bg-dark {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+        padding: 5px;
+        border-radius: 20px;
+    }
     h1 {
         font-size: 130%;
         font-weight: 700;
@@ -240,9 +242,14 @@ pre {
     p {
         font-size: 100%;
     }
-    
+    p.temp {
+        font-size: 100%;
+        padding-top: 10px;
+        text-align: center;
+    }
+
     a:link,
-    a:visited {
+        a:visited {
         color: #FFF;
     }
 }
@@ -250,18 +257,35 @@ pre {
     padding-right: 10px;
     color: $text_violet;
 }
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 768px) {
     .hero-text-box {
-        width: 100%;
-        padding: 15px;
+        h1 {
+            font-size: 300%;
+        }
+        h2 {
+            font-size: 190%;
+        }
+        p {
+            font-size: 130%;
+        }
     }
-    h1 {
-        font-size: 400%;
+}
+@media screen and (min-width: 992px) {
+    .hero-text-box {
+        width: 900px;
+        .bg-dark {
+            padding: 15px;
+        }
+        h1 {
+            font-size: 400%;
+            font-weight: 400;
+        }
+        h2 {
+            font-size: 230%;
+        }
+        p {
+            font-size: 150%;
+        }
     }
-    h2 {
-        font-size: 230%;
-    }
-    p {
-        font-size: 150%;
-    }
+
 }
