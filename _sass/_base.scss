@@ -223,6 +223,7 @@ pre {
     background-position: center center;
     background-repeat:no-repeat;
     background-attachment:fixed;
+    background-color: $lu_violet;
     height: 100vh;
     padding: 5px;
 }
@@ -278,7 +279,7 @@ pre {
 }
 .icon-lu {
     padding-right: 10px;
-    color: $text_violet;
+    color: $lu_violet;
 }
 @media screen and (min-width: 500px) {
     .hero-footer {
