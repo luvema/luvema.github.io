@@ -219,6 +219,7 @@ pre {
 .hero {
     background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature-xs.jpg);
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature-xs.jpg);
+    -webkit-background-size: cover;
     background-size: cover;
     background-position: center;
     height: 100vh;
