@@ -224,7 +224,7 @@ pre {
     background-repeat:no-repeat;
     background-attachment:fixed;
     background-color: $lu_violet;
-    height: 640px;
+    height: 640px; // per browser che non supportano le unità vh, wh, ecc. es. vecchio Android Browser
     height: 100vh;
     padding: 5px;
 }
@@ -284,7 +284,7 @@ pre {
 }
 @media screen and (min-width: 500px) {
     .hero-footer {
-        max-width: 470px;
+        max-width: 480px;
     }
 }
 @media screen and (min-width: 768px) {
