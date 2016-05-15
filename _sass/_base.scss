@@ -219,9 +219,10 @@ pre {
 .hero {
     background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature-xs.jpg);
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature-xs.jpg);
-    -webkit-background-size: cover;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
     height: 100vh;
     padding: 5px;
 }
@@ -273,14 +274,15 @@ pre {
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
     padding: 5px;
     border-radius: 20px;
+    font-size: 85%;
 }
 .icon-lu {
     padding-right: 10px;
     color: $text_violet;
 }
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 500px) {
     .hero-footer {
-        max-width: 555px;
+        max-width: 470px;
     }
 }
 @media screen and (min-width: 768px) {
