@@ -253,9 +253,25 @@ pre {
         color: #FFF;
     }
 }
+.hero-footer {
+    position: absolute;
+    width: 95%;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -100%);
+    color: #FFF;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+    padding: 5px;
+    border-radius: 20px;
+}
 .icon-lu {
     padding-right: 10px;
     color: $text_violet;
+}
+@media screen and (min-width: 600px) {
+    .hero-footer {
+        max-width: 555px;
+    }
 }
 @media screen and (min-width: 768px) {
     .hero {
@@ -275,7 +291,7 @@ pre {
 }
 @media screen and (min-width: 992px) {
     .hero-text-box {
-        width: 900px;
+        max-width: 900px;
         .bg-dark {
             padding: 15px;
         }

@@ -17,3 +17,6 @@ github_username:  luvema
 
 # Build settings
 markdown: kramdown
+# Aggiungi prefissi vendor per supportare vecchi browser
+gems:
+  - octopress-autoprefixer
