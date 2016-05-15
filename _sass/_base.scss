@@ -213,6 +213,7 @@ pre {
  * Hero coming soon
  */
 .hero {
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature-xs.jpg);
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature-xs.jpg);
     background-size: cover;
     background-position: center;
@@ -224,10 +225,12 @@ pre {
     width: 95%;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
     color: #FFF;
 
     .bg-dark {
+        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
         background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
         padding: 5px;
         border-radius: 20px;
@@ -258,8 +261,10 @@ pre {
     width: 95%;
     top: 100%;
     left: 50%;
-    transform: translate(-50%, -100%);
+    -webkit-transform: translate(-50%, -100%);
+          transform: translate(-50%, -100%);
     color: #FFF;
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
     padding: 5px;
     border-radius: 20px;
@@ -275,6 +280,7 @@ pre {
 }
 @media screen and (min-width: 768px) {
     .hero {
+        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature-md.jpg);
         background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature-md.jpg);
     }
     .hero-text-box {
@@ -309,6 +315,7 @@ pre {
 }
 @media screen and (min-width: 1200px) {
     .hero {
+        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature.jpg);
         background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/nature.jpg);
     }
 }
