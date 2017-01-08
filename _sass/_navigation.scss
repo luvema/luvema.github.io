@@ -193,11 +193,12 @@
   button {
     position: absolute;
     height: 100%;
+    max-height: 50px;
     right: 0;
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background-color: $link-color;
     color: #fff;
     cursor: pointer;
   }
@@ -233,7 +234,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: mix(#fff, $link-color-light, 50%); // Bordo hover menu principale
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;

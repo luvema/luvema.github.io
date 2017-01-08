@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "it"
-title                    : "Dott.ssa Lucia Trabbia, psicologa clinica e perinatale"
+title                    : "Dott.ssa Lucia Trabbia<br><small>psicologa clinica e perinatale</small>"
 title_separator          : "-"
 name                     : "Dott.ssa Lucia Trabbia"
 description              : "Psicologa clinica e perinatale."
