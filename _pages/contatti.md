@@ -1,6 +1,6 @@
 ---
 title: "Contatti"
-layout: single
+layout: single_lu
 excerpt: "Contatti"
 sitemap: true
 permalink: /contatti/

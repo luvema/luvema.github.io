@@ -1,6 +1,6 @@
 ---
 title: "Dott.ssa Lucia Trabbia"
-layout: single
+layout: single_lu
 excerpt: "Biografia"
 sitemap: true
 permalink: /chi-sono/

@@ -399,3 +399,12 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* @tagliamax */
+#home-logo {
+    margin: -1em auto 0;
+    figure {
+        margin: 0;
+    }
+    max-width: 600px;
+}

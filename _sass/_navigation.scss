@@ -180,16 +180,23 @@
 
   a {
     display: block;
-    margin: 0 1rem;
+    margin: 0 0.5rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    
+    @include breakpoint(min-width ($large)) {
+        margin: 0 0.7rem;
+    }
+    @include breakpoint(min-width ($x-large + 1)) {
+        margin: 0 1rem;
+    }
 
     &:hover {
       color: $masthead-link-color-hover;
     }
   }
-
+  
   button {
     position: absolute;
     height: 100%;

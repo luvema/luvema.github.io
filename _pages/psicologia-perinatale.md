@@ -1,6 +1,6 @@
 ---
 title: "Psicologia Perinatale"
-layout: single
+layout: single_lu
 excerpt: "Psicologia Perinatale"
 sitemap: true
 permalink: /psicologia-perinatale/

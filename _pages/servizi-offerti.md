@@ -1,6 +1,6 @@
 ---
 title: "Servizi Offerti"
-layout: single
+layout: single_lu
 excerpt: "Servizi Offerti"
 sitemap: true
 permalink: /servizi-offerti/

@@ -9,5 +9,11 @@ main:
   - title: "Servizi offerti"
     url: /servizi-offerti/
     
+  - title: "Attività"
+    url: /attivita/
+    
+  - title: "Articoli"
+    url: /articoli/
+    
   - title: "Contatti"
     url: /contatti/
