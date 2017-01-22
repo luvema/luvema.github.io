@@ -5,11 +5,11 @@ excerpt: "Psicologia Perinatale"
 sitemap: true
 permalink: /psicologia-perinatale/
 ---
-Cos'è la Psicologia perinatale? E di cosa si occupa lo psicologo perinatale?
+Cos'è la Psicologia perinatale? E di cosa si occupa lo psicologo perinatale? ![image-right](/images/sassi-spirale.png){: .align-right}
 
 > “La psicologia perinatale si occupa di promuovere e tutelare la salute di mamma e bambino nel periodo intorno alla nascita. Proteggere questa fase di vita della mamma, del bambino e di tutta la famiglia, implica dedicare la massima attenzione a tutto ciò che ruota intorno a concepimento, gravidanza, parto e puericultura nei primi mesi di vita del neonato” (www.psicologiaperinatale.it).
 
-La costruzione della salute di ogni individuo inizia dalla gravidanza. Anzi, da prima. Tutto ciò che accade già prima della gravidanza va ad influenzare l’ambiente in cui ogni bambino crescerà, sia all’interno del corpo materno, sia dopo quando sarà venuto alla luce, durante il suo sviluppo.
+**La costruzione della salute di ogni individuo inizia dalla gravidanza**. Anzi, da prima. Tutto ciò che accade già prima della gravidanza va ad influenzare l’ambiente in cui ogni bambino crescerà, sia all’interno del corpo materno, sia dopo quando sarà venuto alla luce, durante il suo sviluppo.
 
 Ogni bimbo che nasce ha bisogno di sentire che è stato creato uno spazio per lui, sia fisico che mentale, dapprima accanto alla madre, poi sempre più grande. Ha bisogno di vedere che le mani della mamma e del papà sono tese davanti a lui, per accompagnarlo nell’avventura della vita. E ha bisogno di sentire che, qualsiasi cosa accada, il suo porto sicuro è l’abbraccio dei suoi genitori. 
 

@@ -5,6 +5,8 @@ excerpt: "Servizi Offerti"
 sitemap: true
 permalink: /servizi-offerti/
 ---
+![image-right](/images/malva.png){: .align-right}
+
 + **Consulenze individuali in studio**:
   
   Consulenze individuali per uomini e donne in qualsiasi momento della vita, ma in particolare riguardanti il periodo perinatale:

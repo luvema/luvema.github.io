@@ -5,6 +5,7 @@ excerpt: "Contatti"
 sitemap: true
 permalink: /contatti/
 ---
+![image-right](/images/contatti.png){: .align-right}
 **Dott.ssa Lucia Trabbia**<br>
 cel. <a href="tel:+39 328 108 1014">+39 328 108 1014</a><br>
 lucia.trabbia@gmail.com<br>

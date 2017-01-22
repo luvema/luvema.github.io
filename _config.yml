@@ -10,7 +10,7 @@ locale                   : "it"
 title                    : "Dott.ssa Lucia Trabbia<br><small>psicologa clinica e perinatale</small>"
 title_separator          : "-"
 name                     : "Dott.ssa Lucia Trabbia"
-description              : "Psicologa clinica e perinatale."
+description              : "Lucia Trabbia, psicologa clinica e perinatale, si occupa di prematurità, lutto perinatale e depressione post parto. Studia gli aspetti psicologici della maternità e della genitorialità."
 url                      : "http://127.0.0.1:4000" # "http://www.luciatrabbiapsicologa.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : luvema/luvema.github.io
