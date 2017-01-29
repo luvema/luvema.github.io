@@ -14,7 +14,8 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    //padding: 1em 1em 1em; @tagliamax
+    padding: 0.5em 1em 0.5em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -50,4 +51,9 @@
     padding-right: 2em;
     font-weight: 700;
   }
+}
+
+// @tagliamax
+.masthead figure, .masthead figure img {
+    margin: 0;
 }

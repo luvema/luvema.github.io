@@ -4,7 +4,8 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></li>
+            <!--<li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ '/' | absolute_url }}">{% if page.url == "/" %} Dott.ssa Lucia Trabbia<br><small>psicologa clinica e perinatale</small> {% else %} {% include figure image_path="/images/logo-lucia-trabbia.png" alt="Home page dott.ssa Lucia Trabbia" %} {% endif %}</a></li>-->
+            <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ '/' | absolute_url }}">{% include figure image_path="/images/logo-lucia-trabbia.png" alt="Home page dott.ssa Lucia Trabbia" %}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}

@@ -1,0 +1,18 @@
+---
+layout: default
+classes:
+  - lucia
+---
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+<div id="main" role="main">
+    <article itemscope itemtype="http://schema.org/Person">
+        <header>
+            <h1 class="page__title"><span itemprop="honorificPrefix">Dott.ssa</span> <span itemprop="name">Lucia Trabbia</span> - <span itemprop="jobTitle">psicologa clinica e perinatale</span></h1>
+        </header>
+        {{ content }}
+    </article>
+</div>

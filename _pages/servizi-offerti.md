@@ -1,12 +1,13 @@
 ---
 title: "Servizi Offerti"
 layout: single_lu
-excerpt: "Servizi Offerti"
+excerpt: "Consulenze individuali in studio, consulenze online, incontri tematici nell'ambito della psicologia perinatale, incontri di accompagnamento al parto."
+header:
+  overlay_image: /images/malva-servizi.jpg
+  overlay_filter: 0.3
 sitemap: true
 permalink: /servizi-offerti/
 ---
-![image-right](/images/malva.png){: .align-right}
-
 + **Consulenze individuali in studio**:
   
   Consulenze individuali per uomini e donne in qualsiasi momento della vita, ma in particolare riguardanti il periodo perinatale:
@@ -27,14 +28,14 @@ permalink: /servizi-offerti/
 + **Consulenze individuali via Skype**: in particolari casi, da concordare insieme, può essere utile effettuare una consulenza via Skype in alternativa al colloquio in studio. (Il costo è di 35 euro per 1 ora)
 
 + **Gruppi di lavoro sulle emozioni** (i gruppi partono con un minimo di 4 partecipanti)
-  + **“Emozioni in gravidanza”**: poter condividere le proprie emozioni positive e negative in un gruppo, elaborandole insieme a qualcuno che le accolga e le riconosca, può essere di grande aiuto per affrontare al meglio questo particolare periodo della vita, che è anche l''inizio della vita del tuo bambino.
+  + **“Emozioni in gravidanza”**: poter condividere le proprie emozioni positive e negative in un gruppo, elaborandole insieme a qualcuno che le accolga e le riconosca, può essere di grande aiuto per affrontare al meglio questo particolare periodo della vita, che è anche l''inizio della vita del proprio bambino.
     Ciclo di 8 incontri settimanali.
-  + **“Neomamme in divenire”**: diventare mamma, soprattutto la prima volta, significa vivere delle emozioni mai provate prima, che a volte possono anche spaventare e di cui non riusciamo sempre a parlare. Esprimere e condividere queste emozioni ci può aiutare ad essere più sereni nel nostro compito di genitori.
+  + **“Neomamme in divenire”**: diventare mamma, soprattutto la prima volta, significa vivere delle emozioni mai provate prima, che a volte possono anche spaventare e di cui non si riesce sempre a parlare. Esprimere e condividere queste emozioni può aiutare ad essere più sereni nel proprio compito di genitori.
     Ciclo di 8 incontri settimanali.
     Il gruppo è rivolto a mamme con bimbi da 0 a 9 mesi. I bambini possono partecipare agli incontri.
 
-+ **Incontri tematici su diversi argomenti riguardanti l'ambito della psicologia perinatale**
++ **Incontri tematici su diversi argomenti riguardanti l'ambito della psicologia perinatale** (es. sonno del bambino, elaborare il proprio parto, ecc.)
 
-+ **Incontri di accompagnamento al parto e alla genitorialità**: dal 2017
++ **Incontri di accompagnamento al parto e alla genitorialità**
 
 + **Telefonata gratuita post parto**: raccontami il tuo parto, la nascita di tuo figlio, iniziando ad integrare dentro di te questo importantissimo passaggio della vita

@@ -7,15 +7,16 @@
 
 # Site Settings
 locale                   : "it"
-title                    : "Dott.ssa Lucia Trabbia<br><small>psicologa clinica e perinatale</small>"
+title                    : "Dott.ssa Lucia Trabbia psicologa clinica e perinatale"
 title_separator          : "-"
 name                     : "Dott.ssa Lucia Trabbia"
 description              : "Lucia Trabbia, psicologa clinica e perinatale, si occupa di prematurità, lutto perinatale e depressione post parto. Studia gli aspetti psicologici della maternità e della genitorialità."
-url                      : "http://127.0.0.1:4000" # "http://www.luciatrabbiapsicologa.com"
+url                      : "http://www.luciatrabbiapsicologa.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : luvema/luvema.github.io
+repository               : # luvema/luvema.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -174,7 +175,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome
 
 
 # Plugins
@@ -230,6 +231,14 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  attivita:
+    output: true
+    permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /articoli/:path/
 
 # Defaults
 defaults:
@@ -238,9 +247,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
+      layout: single_lu
+      author_profile: false
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true
