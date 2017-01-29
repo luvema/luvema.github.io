@@ -11,7 +11,7 @@ title                    : "Dott.ssa Lucia Trabbia psicologa clinica e perinatal
 title_separator          : "-"
 name                     : "Dott.ssa Lucia Trabbia"
 description              : "Lucia Trabbia, psicologa clinica e perinatale, si occupa di prematurità, lutto perinatale e depressione post parto. Studia gli aspetti psicologici della maternità e della genitorialità."
-url                      : "http://www.luciatrabbiapsicologa.com"
+url                      : "https://www.luciatrabbiapsicologa.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # luvema/luvema.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
