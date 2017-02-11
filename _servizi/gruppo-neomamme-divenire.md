@@ -1,13 +1,13 @@
 ---
 title: "Gruppo neomamme in divenire"
 layout: single_lu
-excerpt: "Un gruppo per condividere le prime esperienze ed emozioni che si provano quando si diventa genitori, che a volte possono spaventare e di cui non sempre è facile parlare. "
+excerpt: "Un gruppo per condividere le prime esperienze ed emozioni che si provano quando si diventa genitori, che a volte possono spaventare e di cui non sempre è facile parlare"
 sitemap: true
-breadcrumb_parent: Attività
+breadcrumb_parent: Servizi
 header:
-  overlay_image: /images/attivita/gruppo-neomamme.jpg
+  overlay_image: /images/servizi/gruppo-neomamme.jpg
   overlay_filter: 0.2
-permalink: /attivita/gruppo-neomamme/
+permalink: /servizi/gruppo-neomamme
 ---
 Diventare mamma, soprattutto la prima volta, significa vivere delle emozioni mai provate prima, che a volte possono anche spaventare e di cui non riusciamo sempre a parlare. Esprimere e condividere queste emozioni ci può aiutare ad essere più sereni nel nostro compito di genitori.
 

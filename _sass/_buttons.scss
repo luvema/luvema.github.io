@@ -104,6 +104,16 @@
       background-color: mix(#000, $danger-color, 20%);
     }
   }
+  
+  /* @tagliamax lu colore personalizzato */
+
+  &--lu {
+    background-color: $rosa-lu;
+
+    &:hover {
+      background-color: mix(#000, $rosa-lu, 20%);
+    }
+  }
 
   /* disabled */
 

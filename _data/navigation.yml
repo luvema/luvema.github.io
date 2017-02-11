@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "Chi sono"
-    url: /lucia-trabbia/
-
-  - title: "Psicologia perinatale"
-    url: /psicologia-perinatale/
-    
-  - title: "Servizi offerti"
-    url: /servizi-offerti/
-    
-  - title: "Attività"
-    url: /attivita/
+  - title: "Servizi e Attività"
+    url: /servizi/
     
   - title: "Articoli"
     url: /articoli/
+    
+  - title: "Psicologia perinatale"
+    url: /psicologia-perinatale/
+    
+  - title: "Chi sono"
+    url: /lucia-trabbia/
     
   - title: "Contatti"
     url: /contatti/

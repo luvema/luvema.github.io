@@ -1,13 +1,13 @@
 ---
-title: "Incontro di gruppo per i papà"
+title: "Incontri di gruppo per i papà"
 layout: single_lu
-excerpt: "Un incontro di gruppo tutto per i papà, in cui si possa affrontare qualsiasi argomento che riguarda la paternità: cosa sentono i papà, cosa pensano, di cosa hanno paura, che cosa desiderano."
+excerpt: "Incontri di gruppo tutto per i papà, in cui si possa affrontare qualsiasi argomento che riguarda la paternità: cosa sentono i papà, cosa pensano, di cosa hanno paura, che cosa desiderano"
 sitemap: true
-breadcrumb_parent: Attività
+breadcrumb_parent: Servizi
 header:
-  overlay_image: /images/attivita/gruppo-papa.jpg
-  overlay_filter: 0.2
-permalink: /attivita/incontro-gruppo-papa/
+  overlay_image: /images/servizi/gruppo-papa.jpg
+  overlay_filter: 0.6
+permalink: /servizi/gruppo-papa
 ---
 Spesso si parla di maternità e si rivolge l’attenzione ai cambiamenti che attraversano le donne che diventano madri, ma i papà rimangono nell’ombra.<br>
 Il cambiamento che si verifica quando nasce un bambino è molto importante e riguarda intimamente anche i papà, anche se ovviamente in modo diverso rispetto alle mamme.<br>

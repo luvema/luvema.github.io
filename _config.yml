@@ -233,7 +233,7 @@ compress_html:
 
 # Collections
 collections:
-  attivita:
+  servizi:
     output: true
     permalink: /:collection/:path/
   posts:

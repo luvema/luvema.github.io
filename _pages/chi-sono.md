@@ -1,7 +1,7 @@
 ---
 title: "Biografia"
 layout: person
-excerpt: "Dott.ssa Lucia Trabbia psicologa clinica e perinatale, si occupa di maternità e genitorialità e delle problematiche connesse da un punto di vista psicologico."
+excerpt: "Dott.ssa Lucia Trabbia psicologa clinica e perinatale, si occupa di maternità e genitorialità e delle problematiche connesse da un punto di vista psicologico"
 sitemap: true
 permalink: /lucia-trabbia/
 ---

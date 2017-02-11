@@ -468,3 +468,28 @@ a.reversefootnote {
   color: $danger-color;
   font-weight: bold;
 }
+
+// @tagliamax
+.row {overflow: hidden}
+.col-50 {
+    width: 100%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    
+    @include breakpoint(min-width ($small)) {
+        width: 50%;
+    }
+}
+.top-medium {
+    margin-top: 2em;
+}
+.bottom-small {
+    margin-bottom: 1em;
+}
+.link-no-underlined {
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}

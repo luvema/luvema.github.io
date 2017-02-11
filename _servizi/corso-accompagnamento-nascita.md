@@ -1,13 +1,13 @@
 ---
 title: "Corso di accompagnamento alla nascita e alla vita da genitori"
 layout: single_lu
-excerpt: "Il Corso di accompagnamento alla nascita e alla vita da genitori è un corso nuovo, sia teorico che pratico, improntato sugli aspetti psicologici della nascita e della vita familiare."
+excerpt: "Il Corso di accompagnamento alla nascita e alla vita da genitori è un corso nuovo, sia teorico che pratico, improntato sugli aspetti psicologici della nascita e della vita familiare"
 sitemap: true
-breadcrumb_parent: Attività
+breadcrumb_parent: Servizi
 header:
-  overlay_image: /images/attivita/corso-preparazione-nascita.jpg
+  overlay_image: /images/servizi/corso-preparazione-nascita.jpg
   overlay_filter: 0.2
-permalink: /attivita/corso-accompagnamento-nascita/
+permalink: /servizi/corso-accompagnamento-nascita
 ---
 Il “**Corso di accompagnamento alla nascita e alla vita da genitori**” è un corso nuovo, sia teorico che pratico, improntato sugli aspetti psicologici della nascita e della vita familiare.
 

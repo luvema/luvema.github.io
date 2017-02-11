@@ -1,7 +1,7 @@
 ---
 title: "Articoli"
 layout: archive_lu
-excerpt: "Approfondimenti su temi di Psicologia Clinica e Perinatale."
+excerpt: "Approfondimenti su temi di Psicologia Clinica e Perinatale"
 sitemap: true
 header:
   overlay_image: /images/articoli.jpg

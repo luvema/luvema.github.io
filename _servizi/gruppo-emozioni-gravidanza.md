@@ -1,13 +1,13 @@
 ---
 title: "Gruppo emozioni in gravidanza"
 layout: single_lu
-excerpt: "Un gruppo per poter condividere le proprie emozioni positive e negative rispetto a questo particolare periodo della vita, che è anche l''inizio della vita del proprio bambino."
+excerpt: "Un gruppo per poter condividere le proprie emozioni positive e negative rispetto a questo particolare periodo della vita, che è anche l''inizio della vita del proprio bambino"
 sitemap: true
-breadcrumb_parent: Attività
+breadcrumb_parent: Servizi
 header:
-  overlay_image: /images/attivita/gruppo-emozioni-gravidanza.jpg
+  overlay_image: /images/servizi/gruppo-emozioni-gravidanza.jpg
   overlay_filter: 0.2
-permalink: /attivita/gruppo-emozioni-gravidanza/
+permalink: /servizi/gruppo-emozioni-gravidanza
 ---
 Poter condividere le proprie emozioni positive e negative in un gruppo, elaborandole insieme a qualcuno che le accolga e le riconosca, può essere di grande aiuto per affrontare al meglio questo particolare periodo della vita, che è anche l''inizio della vita del proprio bambino.
 
