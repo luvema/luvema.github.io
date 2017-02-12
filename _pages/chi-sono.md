@@ -5,7 +5,7 @@ excerpt: "Dott.ssa Lucia Trabbia psicologa clinica e perinatale, si occupa di ma
 sitemap: true
 permalink: /lucia-trabbia/
 ---
-![image-left](/images/lucia-trabbia-psicologa.jpg){: .align-left} Sono **psicologa clinica** dal 2006 (iscrizione all'Albo degli Psicologi del Piemonte) e **psicologa perinatale** dal 2015 (sono iscritta nel registro ASIPP degli Psicologi Perinatali dal 2016), mi interesso da anni all'ambito della maternità e svolgo attività di **sostegno per coppie e famiglie**, sia in gravidanza che nei primi anni di vita del bambino, anche online.
+<img class="align-left bottom-small" src="{{ '/images/lucia-trabbia-psicologa.jpg' }}" alt="foto Lucia Trabbia"> Sono **psicologa clinica** dal 2006 (iscrizione all'Albo degli Psicologi del Piemonte) e **psicologa perinatale** dal 2015 (sono iscritta nel registro ASIPP degli Psicologi Perinatali dal 2016), mi interesso da anni all'ambito della maternità e svolgo attività di **sostegno per coppie e famiglie**, sia in gravidanza che nei primi anni di vita del bambino, anche online.
 
 Durante gli anni in cui mi sono dedicata alla cura delle mie due bambine ho iniziato ad approfondire gli aspetti della maternità che mi interessavano maggiormente, prima leggendo molti testi e poi avvicinandomi al mondo del volontariato, incontrando molte mamme “sul campo”. Posso quindi dire di avere al mio attivo molta **“esperienza sul campo”** accanto alle donne, non necessariamente in ambito clinico.
 

@@ -233,7 +233,7 @@
       }
     }
 
-    a {
+    a.lu-underlined {
       position: relative;
 
       &:before {
@@ -251,7 +251,7 @@
                 transform: scaleX(0) translate3d(0, 0 , 0); /* hide*/
       }
 
-      &:hover:before {
+      &:hover:before, &.lu-active:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
