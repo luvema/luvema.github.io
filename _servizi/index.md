@@ -11,21 +11,21 @@ feature_row1:
   - image_path: /images/servizi/consulenze-individuali.jpg
     alt: "immagine consulenze individuali"
     title: "Consulenze individuali"
-    excerpt: "Consulenze individuali in studio e via Skype."
+    excerpt: "Consulenze individuali in studio e via Skype per uomini e donne in qualsiasi momento della vita, ma in particolare riguardanti il periodo perinatale, e iniziative gratuite"
     url: "/servizi/consulenze-individuali"
     btn_label: "Maggiori Informazioni"
     btn_class: "btn--lu"
   - image_path: /images/servizi/corso-preparazione-nascita.jpg
     alt: "immagine accompagnamento alla nascita"
     title: "Accompagnamento alla nascita"
-    excerpt: "Il Corso di accompagnamento alla nascita e alla vita da genitori è un corso nuovo, sia teorico che pratico, improntato sugli aspetti psicologici della nascita e della vita familiare."
+    excerpt: "Il Corso di accompagnamento alla nascita e alla vita da genitori è un corso nuovo, sia teorico che pratico, improntato sugli aspetti psicologici della nascita e della vita familiare"
     url: "/servizi/corso-accompagnamento-nascita"
     btn_label: "Maggiori Informazioni"
     btn_class: "btn--lu"
   - image_path: /images/servizi/gruppo-emozioni-gravidanza.jpg
     alt: "immagine gruppo emozioni in gravidanza"
     title: "Gruppo 'Emozioni in gravidanza'"
-    excerpt: "Un’iniziativa gratuita che dà la possibilità di fare una chiacchierata nei giorni successivi al parto, per parlare di tutte le emozioni e le sensazioni in questo primo importantissimo periodo di vita da mamma."
+    excerpt: "Un gruppo per poter condividere le proprie emozioni positive e negative rispetto a questo particolare periodo della vita, che è anche l’‘inizio della vita del proprio bambino"
     url: "/servizi/gruppo-emozioni-gravidanza"
     btn_label: "Maggiori Informazioni"
     btn_class: "btn--lu"
@@ -34,7 +34,7 @@ feature_row2:
   - image_path: /images/servizi/gruppo-neomamme.jpg
     alt: "immagine gruppo neomamme in divenire"
     title: "Gruppo 'Neomamme in divenire'"
-    excerpt: "Un gruppo per condividere le prime esperienze ed emozioni che si provano quando si diventa genitori, che a volte possono spaventare e di cui non sempre è facile parlare."
+    excerpt: "Un gruppo per condividere le prime esperienze ed emozioni che si provano quando si diventa genitori, che a volte possono spaventare e di cui non sempre è facile parlare"
     url: "/servizi/gruppo-neomamme"
     btn_label: "Maggiori Informazioni"
     btn_class: "btn--lu"
