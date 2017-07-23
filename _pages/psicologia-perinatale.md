@@ -1,7 +1,7 @@
 ---
 title: "Psicologia Perinatale"
 layout: single_lu
-excerpt: "Definizione e scopi e ambiti di intervento della Psicologia Perinatale"
+excerpt: "Definizione, scopi e ambiti di intervento della Psicologia Perinatale"
 header:
   overlay_image: /images/spirale-psicologia-perinatale.jpg
   overlay_filter: 0.4
