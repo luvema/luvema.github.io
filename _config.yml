@@ -78,20 +78,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dott.ssa Lucia Trabbia"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Psicologa clinica e perinatale"
+  location         : "Montanaro, Chivasso (TO)"
+  email            : "lucia.trabbia@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/psicologaperinatalechivasso/"
   foursquare       :
   github           :
-  google_plus      :
+  google_plus      : 
   keybase          :
   instagram        :
   lastfm           :

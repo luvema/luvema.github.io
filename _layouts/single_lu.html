@@ -78,7 +78,12 @@ classes:
                   </time></p>
             {% endif %}
         </footer>
+        
+        <hr>
+        <div class="lt-author">
+            {% include author-profile.html %}
+        </div>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
+        {% if page.share %}{% include social-share.html %}{% endif %}
     </article>
 </div>
