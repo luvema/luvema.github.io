@@ -1,27 +1,25 @@
-<div itemscope itemtype="http://schema.org/Person">
-    <div class="page__footer-follow">
-      <ul class="social-icons">
-        {% if site.data.ui-text[site.locale].follow_label %}
-          <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-        {% endif %}
-        {% if site.twitter.username %}
-          <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-        {% endif %}
-        {% if site.facebook.username %}
-          <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-        {% endif %}
-        {% if site.author.github %}
-          <li><a href="http://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
-        {% endif %}
-        {% if site.author.bitbucket %}
-          <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-        {% endif %}
-        <!--
-        <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-        -->
-      </ul>
-        cel. <a itemprop="telephone" href="tel:+39 328 108 1014">+39 328 108 1014</a> | email: <a href="mailto:&#108;&#117;&#099;&#105;&#097;&#046;&#116;&#114;&#097;&#098;&#098;&#105;&#097;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" itemprop="email">&#108;&#117;&#099;&#105;&#097;&#046;&#116;&#114;&#097;&#098;&#098;&#105;&#097;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a><br>
-    </div>
-
-    <div class="page__footer-copyright">&copy; 2016-{{ site.time | date: '%Y' }} <span itemprop="honorificPrefix">Dott.ssa</span> <span itemprop="name">Lucia Trabbia</span>. <span itemprop="vatID">P.I. IT11512970010</span> - Numero di Iscrizione all'Albo Psicologi Piemonte: 4646 <br><small>Realizzato con <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> | <a rel="nofollow" href="{{'/cookie/' | absolute_url}}">Cookie policy</a></small></div>
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+    {% if site.twitter.username %}
+      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    {% endif %}
+    {% if site.facebook.username %}
+      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    {% endif %}
+    {% if site.author.github %}
+      <li><a href="http://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+    {% if site.author.bitbucket %}
+      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    {% endif %}
+    <!--
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    -->
+  </ul>
+    cel. <a itemprop="telephone" href="tel:+39 328 108 1014">+39 328 108 1014</a> | email: <a href="mailto:&#108;&#117;&#099;&#105;&#097;&#046;&#116;&#114;&#097;&#098;&#098;&#105;&#097;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" itemprop="email">&#108;&#117;&#099;&#105;&#097;&#046;&#116;&#114;&#097;&#098;&#098;&#105;&#097;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a><br>
 </div>
+
+<div class="page__footer-copyright">&copy; 2016-{{ site.time | date: '%Y' }} <span itemprop="honorificPrefix">Dott.ssa</span> <span itemprop="name">Lucia Trabbia</span>. <span itemprop="vatID">P.I. IT11512970010</span> - Numero di Iscrizione all'Albo Psicologi Piemonte: 4646 <br><small>Realizzato con <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> | <a rel="nofollow" href="{{'/cookie/' | absolute_url}}">Cookie policy</a></small></div>
