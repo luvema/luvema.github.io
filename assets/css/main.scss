@@ -4,5 +4,125 @@
 
 @charset "utf-8";
 
+/*
+   Typography
+   ========================================================================== */
+
+/* system typefaces */
+$sans-serif: "Raleway", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+
+/*
+   Colors
+   ========================================================================== */
+
+$info_color: #4b93aa;
+$secondary_color: #d67da5;
+
+/* links */
+$masthead-link-color: $info_color !default;
+$masthead-link-color-hover: mix(#000, $info_color, 25%) !default;
+$navicon-link-color-hover: mix(#fff, $info_color, 75%) !default;
+
+$footer-background-color: $info_color;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/*
+     Priority plus navigation
+     ========================================================================== */
+
+.greedy-nav {
+  .visible-links {
+    a {
+      &:before {
+        height: 2px;
+        background: $info_color;
+      }
+    }
+    a.lu-active {
+      &:before {
+        /*content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: 2px;
+        background: $info_color;
+        width: 100%;*/
+        -webkit-transform: scaleX(1);
+        -ms-transform: scaleX(1);
+        transform: scaleX(1); // reveal
+      }
+    }
+  }
+}
+
+/*
+   Navicons
+   ========================================================================== */
+
+.navicon {
+  background: $info-color;
+
+  &:before,
+  &:after {
+    background: $info-color;
+  }
+}
+.greedy-nav__toggle:hover {
+  .navicon,
+  .navicon:before,
+  .navicon:after {
+    background: mix(#000, $info-color, 25%);
+  }
+}
+
+/*
+   Footer
+   ========================================================================== */
+.page__footer {
+  color: #fff;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .fas,
+  .fab,
+  .far,
+  .fal {
+    color: #fff;
+  }
+  
+  .social-icons .fa-facebook, 
+  .social-icons .fa-facebook-square, 
+  .social-icons .fa-facebook-f {
+      color: #fff;
+  }
+}
+
+.btn {
+  color: #fff;
+    
+  &--lu {
+    background-color: $secondary_color;
+
+    &:hover {
+      background-color: mix(#000, $secondary_color, 20%);
+    }
+  }
+}
+
+a.btn {
+color: #fff;
+  &:hover,
+  &:visited {
+    color: #fff;
+  }
+}
