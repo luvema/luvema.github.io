@@ -8,6 +8,6 @@ header:
   overlay_filter: 0.2
 permalink: /articoli/
 ---
-{% for post in site.articoli %}
+{% for post in site.articoli reversed %}
   {% include archive-single_lu.html %}
 {% endfor %}

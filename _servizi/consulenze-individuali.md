@@ -26,7 +26,7 @@ permalink: /servizi/consulenze-individuali
   + svezzamento, sonno e vita col bambino nei primi anni di vita
   + sostegno alla genitorialità
 
-+ **Via Skype**: in particolari casi, da concordare insieme, può essere utile effettuare una consulenza via Skype in alternativa al colloquio in studio. (Il costo è di 35 euro per 1 ora)
++ **Via Skype**: in particolari casi, da concordare insieme, può essere utile effettuare una consulenza via Skype in alternativa al colloquio in studio.
 
 ## Telefonata gratuita post parto
 Il periodo perinatale è molto importante per tutta la famiglia, in primis per la neomamma, che ha bisogno di molto sostegno sia pratico che psicologico, per affrontare le necessarie trasformazioni che il nuovo stato di madre le richiede, e per accudire il proprio bambino.
