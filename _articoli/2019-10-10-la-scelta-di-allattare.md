@@ -55,8 +55,10 @@ Esistono molteplici benefici che questo modo di nutrire i propri figli può port
 
 Inoltre, allattare fa bene alla famiglia intera, perché si diffondono **ormoni dell'amore** (ossitocina) nell'aria, è più facile gestire le difficoltà quotidiane e si insegna alle successive generazioni cosa significa nutrire al seno i piccoli, cosa che si è molto persa in questi ultimi 50 anni. I nostri bimbi sperimentano sulla propria pelle cosa è l'allattamento, e se lo ricorderanno per sempre, anche quando saranno a loro volta mamme e papà.
 
-**Note**
-***
-<sup>1</sup> “Lactation and a Reduced Risk of Premenopausal Breast Cancer” Polly A. Newcomb, Barry E. Storer et al., N Engl J Med 1994; 330:81-87: le conclusioni affermano che esiste una riduzione del rischio di cancro al seno tra le donne in premenopausa che hanno allattato al seno. Un altro riferimento è https://chemtrust.org/wp-content/uploads/Fattori_di_rischio_per_il_cancro_al_seno_-_Accertati_ed_emergenti_IT.pdf, dove si legge “Le ricerche indicano che anche l’allattamento al seno riduce i rischi di cancro al seno e che ad un prolungamento del periodo di allattamento, corrisponde una riduzione proporzionale del rischio, con un 4.3% di diminuzione ogni 12 mesi di allattamento”.
+#### Note
 
-<sup>2</sup> http://www.salute.gov.it/portale/allattamento/dettaglioContenutiAllattamento.jsp?lingua=italiano&id=5258&area=allattamento&menu=
+***
+
+<sup>1</sup> “Lactation and a Reduced Risk of Premenopausal Breast Cancer” Polly A. Newcomb, Barry E. Storer et al., N Engl J Med 1994; 330:81-87: le conclusioni affermano che esiste una riduzione del rischio di cancro al seno tra le donne in premenopausa che hanno allattato al seno. Un altro riferimento è [https://chemtrust.org/wp-content/uploads/Fattori_di_rischio_per_il_cancro_al_seno_-_Accertati_ed_emergenti_IT.pdf](https://chemtrust.org/wp-content/uploads/Fattori_di_rischio_per_il_cancro_al_seno_-_Accertati_ed_emergenti_IT.pdf), dove si legge “Le ricerche indicano che anche l’allattamento al seno riduce i rischi di cancro al seno e che ad un prolungamento del periodo di allattamento, corrisponde una riduzione proporzionale del rischio, con un 4.3% di diminuzione ogni 12 mesi di allattamento”.
+
+<sup>2</sup> [http://www.salute.gov.it/portale/allattamento/dettaglioContenutiAllattamento.jsp?lingua=italiano&id=5258&area=allattamento&menu=](http://www.salute.gov.it/portale/allattamento/dettaglioContenutiAllattamento.jsp?lingua=italiano&id=5258&area=allattamento&menu=)
